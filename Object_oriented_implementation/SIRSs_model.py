@@ -3,8 +3,6 @@ import matplotlib.pylab as plt
 import matplotlib.animation as animation
 from  matplotlib.animation import FuncAnimation
 from scipy import signal
-import cv2
-import copy
 
 
 def SIRSs_model_h(iters, xSize, ySize, beta, gamma, lambd, my, delta, omega, m, N, inf, h):

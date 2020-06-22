@@ -1,6 +1,4 @@
 import numpy as np
-import cv2
-import copy
 import SIRSs_model as SIRSs_m
 import SEIRS_model as SEIRSs_m
 

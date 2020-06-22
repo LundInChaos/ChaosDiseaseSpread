@@ -3,8 +3,6 @@ import matplotlib.pylab as plt
 import matplotlib.animation as animation
 from  matplotlib.animation import FuncAnimation
 from scipy import signal
-import cv2
-import copy
 
 
 def SIR_model(iters, xSize, ySize, beta, gamma, lambd, my, m, N):
